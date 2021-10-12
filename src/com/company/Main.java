@@ -7,6 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+        System.out.println("Hello Mates!");
         Random random = new Random();
         System.out.println(random.nextDouble());
     }
